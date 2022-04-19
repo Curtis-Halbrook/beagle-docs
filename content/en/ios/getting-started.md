@@ -52,9 +52,9 @@ The following tutorial is for Beagle iOS version: {{<param ios_current_version>}
 
 You only need Xcode here. More on Swift Package Manager: <https://swift.org/package-manager>
 
-**Step 1:** Click on _File -> Swift Packages -> Add Package Dependency_.
+**Step 1:** Click on _File -> Add Packages..._.
 
-**Step 2:** Enter Beagle's package repository url: `https://github.com/ZupIT/beagle.git` and click on next.
+**Step 2:** Enter Beagle's package repository url: `https://github.com/ZupIT/beagle-ios.git` and click on next.
 
 **Step 3:** Confirm Beagle's version, click on next and let Xcode resolve the package.
 
